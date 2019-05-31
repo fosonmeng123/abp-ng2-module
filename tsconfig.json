@@ -28,7 +28,8 @@
   ],
   "files": [
       "index.ts",
-      "./node_modules/abp-web-resources/Abp/Framework/scripts/abp.d.ts"
+      "./node_modules/abp-web-resources/Abp/Framework/scripts/abp.d.ts",
+      "./src/typings.ts"
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true

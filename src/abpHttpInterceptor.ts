@@ -7,6 +7,9 @@ import { UtilsService } from './utils/utils.service';
 
 import { HttpClient, HttpInterceptor, HttpHandler, HttpRequest, HttpEvent, HttpResponse, HttpErrorResponse, HttpHeaders } from '@angular/common/http';
 
+// ie9 Blob shims
+import { Blob, FileReader } from './ie9-blob';
+
 export interface IValidationErrorInfo {
 
     message: string;
