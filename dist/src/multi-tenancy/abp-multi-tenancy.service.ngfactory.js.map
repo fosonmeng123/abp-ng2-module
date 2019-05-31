@@ -1,0 +1,1 @@
+{"version":3,"file":"abp-multi-tenancy.service.ngfactory.js","sourceRoot":"","sources":["../../../src/multi-tenancy/abp-multi-tenancy.service.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

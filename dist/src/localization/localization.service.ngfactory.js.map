@@ -1,0 +1,1 @@
+{"version":3,"file":"localization.service.ngfactory.js","sourceRoot":"","sources":["../../../src/localization/localization.service.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

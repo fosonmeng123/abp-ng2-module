@@ -1,0 +1,1 @@
+{"version":3,"file":"abp-user-configuration.service.ngfactory.js","sourceRoot":"","sources":["../../src/abp-user-configuration.service.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}
